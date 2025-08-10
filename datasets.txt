@@ -1,0 +1,4 @@
+https://planet.osm.org/pbf/planet-latest.osm.pbf
+https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
+https://data.commoncrawl.org/crawl-data/CC-MAIN-2025-06/segments/1717226266165.29/warc/CC-MAIN-20250521-20250521123456-00000.warc.gz
+https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz
